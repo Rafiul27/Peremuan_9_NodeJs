@@ -1,0 +1,16 @@
+{
+  "name": "pertemuan-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "validator": "^13.11.0",
+    "yargs": "^17.7.2"
+  }
+}
